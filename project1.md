@@ -1,7 +1,7 @@
 ---
 title: Project 1 - The NB Language
 layout: default
-availability: 15 Sep 2015
+availability: 16 Sep 2015
 index: 3
 ---
 
