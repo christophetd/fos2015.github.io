@@ -2,17 +2,17 @@
 title: Environment Setup
 layout: default
 availability: 15 Sep 2015
-index: 1
+index: 3
 ---
 
 ###  Environment Setup
 
 These days, getting started with Scala is very easy:
 
-1. Visit the website of the [Scala IDE](http://scala-ide.org/) to download a distribution of Eclipse with a pre-installed Scala plugin.
+1. Download Eclipse with built-in Scala plugin at [http://scala-ide.org/download/sdk.html](http://scala-ide.org/download/sdk.html)
 1. Launch the downloaded application
-1. Go to menu File > Import > Existing Project into Workspace
-1. Point select root directory to the folder where you unarchived assignment skeleton
-1. Click finish
+1. Go to menu `File > Import > Existing Project into Workspace`
+1. Select the directory where you unarchived the skeleton of your assignment
+1. Click `Finish`
 
-You should be all set. If you don't like Eclipse, feel free to use alternative IDEs or even develop in console, as long as your project [passes our tests](http://lamp.epfl.ch/page-125161-en.html).
+You should be all set. If you don't like Eclipse, feel free to use alternative IDEs or even develop in console, as long as your project [passes our tests](/handing-in.html).
