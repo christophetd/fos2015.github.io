@@ -1,7 +1,7 @@
 ---
 title: Mailing List
 layout: default
-availability: Always
+start: 14 Sep 2015, 00:00
 index: 1
 ---
 
