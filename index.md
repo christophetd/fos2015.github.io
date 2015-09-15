@@ -6,7 +6,7 @@ index: -1
 ---
 
 The Foundations of Software course at EPFL is taught on *Tue 10:15-12:00, INM 200*.
-Exercise sessions take place on *Wed 10:15-10:00, CO 020*.
+Exercise sessions take place on *Wed 10:15-12:00, CO 020*.
 Aditional announcements related to the course, as well as answers to the students' questions
 will be posted on the [mailing list](https://groups.google.com/forum/#!forum/fos2015) so remember to check it frequently.
 
