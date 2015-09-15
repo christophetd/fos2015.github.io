@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: default
-availability: 15 Sep 2015
+availability: Always
 index: -1
 ---
 

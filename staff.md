@@ -1,7 +1,7 @@
 ---
 title: Staff
 layout: default
-availability: 15 Sep 2015
+availability: Always
 index: 0
 ---
 
