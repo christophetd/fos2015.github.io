@@ -5,8 +5,8 @@ availability: 15 Sep 2015
 index: -1
 ---
 
-The Foundations of Software course at EPFL is taught on **Tue 10:15-12:00, INM 200**.
-Exercise sessions take place on **Wed 10:15-10:00, CO 020**.
+The Foundations of Software course at EPFL is taught on *Tue 10:15-12:00, INM 200*.
+Exercise sessions take place on *Wed 10:15-10:00, CO 020*.
 Aditional announcements related to the course, as well as answers to the students' questions
 will be posted on the [mailing list](https://groups.google.com/forum/#!forum/fos2015) so remember to check it frequently.
 
@@ -18,7 +18,7 @@ Software foundations (or *theory of programming languages*) is the mathematical 
 
 |             |                                                         |
 |-------------|---------------------------------------------------------|
-| Tue, Sep 15 | Course **Introduction and Combinator Parsers**          |
+| Tue, Sep 15 | Course *Introduction and Combinator Parsers*          |
 | Wed, Sep 16 | Exercise session on *arithmetic expressions*            |
 | ...         |                                                         |
 
