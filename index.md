@@ -36,7 +36,7 @@ Software foundations (or *theory of programming languages*) is the mathematical 
 
 ### Grading
 
-Each enrolled student will receive a grade based on his results for the projects, the midterm exam and the final exam. The relative importance of each part is: 30% for projects, 30% for the midterm and 40% for the final.
+Each enrolled student will receive a grade based on their results for the projects, the midterm exam and the final exam. The relative importance of each part is: 30% for projects, 30% for the midterm and 40% for the final.
 
 Sharing ideas between groups is very recommended. Plagiarising code as part of a project will not be tolerated — whatever the source. In particular, you are not allowed to publish your projects in public repositories at GitHub/Bitbucket/... or to use solutions published by others.
 
