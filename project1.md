@@ -9,7 +9,7 @@ index: 3
 
 **Hand in:** September 29, 23:59:59
 
-**Project template:** /projects/1-arithmetic.zip
+**Project template:** []()
 
 The cryptic acronym stands for Numbers and Booleans and comes from the course book.
 This simple language is defined in Chapter 3 of the the TAPL book.
