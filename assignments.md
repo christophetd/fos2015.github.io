@@ -25,7 +25,7 @@ All development during the course will be done in Scala. To get up and running w
 1. Click `Finish`.
 1. You should be all set.
 
-If you don't like Eclipse, feel free to use alternative editors or even develop in console, as long as your project [passes our tests](/handing-in.html).
+If you don't like Eclipse, feel free to use alternative editors or even develop in console, as long as your project passes our tests.
 
 ### Submitting your solutions
 
