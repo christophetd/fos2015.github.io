@@ -15,17 +15,28 @@ We encourage you to team up when working on assignments. Teams can consist of on
 
 ### Getting started with Scala
 
-All development during the course will be done in Scala. To get up and running with Scala, you can use the Eclipse-based Scala IDE that can be set up as described below:
+All development during the course will be done in Scala. Here we provide the instructions
+how to setup the Eclipse-based Scala IDE:
 
-1. Download Eclipse with built-in Scala plugin from [http://scala-ide.org/download/sdk.html](http://scala-ide.org/download/sdk.html)
-1. Unpack and launch the downloaded application
-1. Go to `File > Import > Existing Project into Workspace`
-1. Download and unpack the skeleton of your assignment
-1. Select the directory where you unpacked the assignment
+Before you can import project into Eclipse you need to generate an eclipse project using
+[the sbt build tool](http://www.scala-sbt.org/download.html):
+
+1. Open command-line terminal.
+1. Download and unpack the assignment skeleton zip from the project description page.
+1. Navigate to the folder where you unpacked the assignment skeleton.
+1. Run `sbt eclipse` to generate IDE project definition. This might take a while.
+
+After completing that you can import the project into the IDE:
+
+1. Download Eclipse with built-in Scala plugin from [http://scala-ide.org/download/sdk.html](http://scala-ide.org/download/sdk.html).
+1. Unpack and launch the downloaded application.
+1. Go to `File > Import > Existing Project into Workspace`.
+1. Select the directory where you unpacked the assignment.
 1. Click `Finish`.
 1. You should be all set.
 
-If you don't like Eclipse, feel free to use alternative editors or even develop in console, as long as your project passes our tests.
+If you don't like Eclipse, feel free to use alternative editors or even develop in console,
+as long as your project passes our tests.
 
 ### Submitting your solutions
 
