@@ -46,11 +46,11 @@ The evaluation rules are as follows.
 
                   isZero zero → true
 
-                isZero succ nv → false
+                isZero succ NV → false
 
                     pred zero → zero
 
-                   pred succ nv → nv
+                   pred succ NV → NV
 
                         t1 → t1'
      ——————————————————————————————————————————————
