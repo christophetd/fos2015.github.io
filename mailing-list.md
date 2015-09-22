@@ -6,7 +6,7 @@ index: 1
 ---
 
 Our mailing list is hosted at [https://groups.google.com/forum/#!forum/fos2015](https://groups.google.com/forum/#!forum/fos2015),
-and you will want to join it if you're attending the course - all announcements, questions and answers
+and you *must join* it if you're attending the course - all announcements, questions and answers
 will be posted there.
 
 The mailing list is only available to registered members. In order to join the mailing list,
