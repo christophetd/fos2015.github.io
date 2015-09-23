@@ -155,5 +155,4 @@ input:
 output:
 
     Pred(Succ(Succ(Succ(False))))
-    Stuck term: Pred(Succ(Succ(Succ(False))))
     Big step: Stuck term: Succ(False)
