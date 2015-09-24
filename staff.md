@@ -20,3 +20,7 @@ INR 320<br/>
 Denys Shabalin<br/>
 INR 317<br/>
 <denys.shabalin@epfl.ch><br/>
+
+Amir Shaikhha<br/>
+BC 247<br/>
+<amir.shaikhha@epfl.ch><br/>
