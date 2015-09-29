@@ -41,3 +41,13 @@ or by [4](slides/week03-2x2.pdf).
 
     
   
+
+  
+### The Untyped Lambda Calculus (2)
+
+Download for [screen](slides/week04.pdf),
+for printing by [2](slides/week04-1x2.pdf)
+or by [4](slides/week04-2x2.pdf).
+
+    
+  
