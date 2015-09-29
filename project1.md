@@ -7,7 +7,7 @@ index: 4
 
 # Project 1: The NB Language
 
-**Hand in:** 29 Sep 2015, 23:59
+**Hand in:** 29 Sep 2015, 23:59 UTC
 
 **Project template:** [1-arithmetic.zip](projects/1-arithmetic.zip)
 
