@@ -1,13 +1,13 @@
 ---
 title: Project 2 - Untyped Lambda Calculus
 layout: default
-start: 30 Sep 2015, 00:00 UTC+0000
+start: 30 Sep 2015, 00:00 (Europe/Zurich)
 index: 4
 ---
 
 # Project 2: Untyped Lambda Calculus
 
-**Hand in:** 13 Oct 2015, 23:59 UTC+0000
+**Hand in:** 13 Oct 2015, 23:59 (Europe/Zurich)
 
 **Project template:** [2-untyped.zip](projects/2-untyped.zip)
 

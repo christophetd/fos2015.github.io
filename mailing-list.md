@@ -1,7 +1,7 @@
 ---
 title: Mailing List
 layout: default
-start: 14 Sep 2015, 00:00 UTC+0000
+start: 14 Sep 2015, 00:00 (Europe/Zurich)
 index: 1
 ---
 
