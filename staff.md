@@ -1,7 +1,7 @@
 ---
 title: Staff
 layout: default
-start: 14 Sep 2015, 00:00
+start: 14 Sep 2015, 00:00 UTC+0000
 index: 0
 ---
 

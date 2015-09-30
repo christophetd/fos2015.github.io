@@ -1,13 +1,13 @@
 ---
 title: Project 1 - The NB Language
 layout: default
-start: 16 Sep 2015, 00:00
+start: 16 Sep 2015, 00:00 UTC+0000
 index: 4
 ---
 
 # Project 1: The NB Language
 
-**Hand in:** 29 Sep 2015, 23:59 UTC
+**Hand in:** 29 Sep 2015, 23:59 UTC+0000
 
 **Project template:** [1-arithmetic.zip](projects/1-arithmetic.zip)
 
