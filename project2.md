@@ -13,12 +13,12 @@ index: 4
 
 In this exercise, you'll be studying untyped λ-calculus. This classic language is defined in Chapter 5 of the TAPL book.
 
-    t ::= x              terms
-        | "\" x "." t
+    t ::= ident              terms
+        | "\" ident "." t
         | t t
         | "(" t ")"
 
-    v ::= "\" x "." t    values
+    v ::= "\" ident "." t    values
 
 We use standard syntax to express λ-terms, with lambdas replaced by backslashes. As a reminder, note that the bodies of abstractions are taken to extend as far to the right as possible, so that, for example, `λx. λy. x y x` stands for the same tree as `λx. (λy. ((x y) x))` (see TAPL, p54).
 
@@ -79,6 +79,8 @@ TAPL p56 presents several evaluation strategies for the λ-calculus:
 ## What you have to do
 
   1. Implement `term` parser that recognizes this language, using the combinator library. The parser must produce abstract syntax trees defined in `Terms.scala`.
+
+      Here are some implementation hints: a) Use the built-in `ident` combinator to parse identifiers. b) Provided grammar for untyped λ-calculus is left-recursive, so you'll be getting stack overflow errors if you implement it naively. Consult week 1 lectures to see how to address this problem.
 
   1. Implement `reduceNormalOrder` method that uses the normal-order strategy, which applies alpha-conversion and term substitution following the above reduction rules. If none of the rules apply it should throw `NoReductionPossible` exception containing corresponding irreducible term.
 

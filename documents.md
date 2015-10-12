@@ -51,3 +51,13 @@ or by [4](slides/week04-2x2.pdf).
 
     
   
+
+  
+### The Simply Typed Lambda Calculus
+
+Download for [screen](slides/week05.pdf),
+for printing by [2](slides/week05-1x2.pdf)
+or by [4](slides/week05-2x2.pdf).
+
+    
+  
