@@ -232,7 +232,7 @@ The new typing rules are as follows:
 
   1. Implement `reduce` method which performs one step of the evaluation, according to the rules of call-by-value reducer (small step). If none of the rules apply, it should throw `NoRuleApplies` exception containing corresponding irreducible term.
 
-  1. Implement `typeof` method which given a term finds its type. In the case of failure, it should throw `TypeError` exception containing the ill-typed term.
+  1. Implement `typeof` method which given a term finds its type. In the case of failure, it should throw `TypeError` exception containing the ill-typed term. The ill-typed term is the leftmost innermost term that doesn't typecheck, i.e. that doesn't have any typing rules that apply to it.
 
 ## Development & debugging
 
@@ -273,4 +273,4 @@ input:
 output:
 
     pair type expected but Nat found
-    x
+    snd x
