@@ -194,7 +194,7 @@ The new evaluation rules are presented below:
 
     fst {v1, v2} → v1
 
-    snd {v1, v2} → v1
+    snd {v1, v2} → v2
 
         t → t'
     --------------
