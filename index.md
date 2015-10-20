@@ -32,6 +32,10 @@ Software foundations (or *theory of programming languages*) is the mathematical 
 | Wed, 21 Oct | Exercise session on *simply typed lambda calculus*                     |
 | Tue, 27 Oct | Course *More Extensions to STLC*                                       |
 | Wed, 28 Oct | Exercise session on *simply typed lambda calculus with extensions*     |
+| Tue, 3 Nov  | Course *Recursion and State with STLC*                                 |
+| Wed, 4 Nov  | **Solving midterm-like problems in class**                             |
+| Tue, 10 Nov | Course *Type Reconstruction and Polymorphism*                          |
+| Wed, 11 Nov | **Midterm**                                                            |
 | ...         |                                                                        |
 
 ### Grading
