@@ -81,3 +81,63 @@ or by [4](slides/week07-2x2.pdf).
 
     
   
+
+  
+### Recursion and State in STLC
+
+Download for [screen](slides/week08.pdf),
+for printing by [2](slides/week08-1x2.pdf)
+or by [4](slides/week08-2x2.pdf).
+
+    
+  
+
+  
+### Type Reconstruction and Polymorphism
+
+Download for [screen](slides/week09.pdf),
+for printing by [2](slides/week09-1x2.pdf)
+or by [4](slides/week09-2x2.pdf).
+
+    
+  
+
+  
+### Subtyping
+
+Download for [screen](slides/week10.pdf),
+for printing by [2](slides/week10-1x2.pdf)
+or by [4](slides/week10-2x2.pdf).
+
+    
+  
+
+  
+### Featherweight Java
+
+Download for [screen](slides/week11.pdf),
+for printing by [2](slides/week11-1x2.pdf)
+or by [4](slides/week11-2x2.pdf).
+
+    
+  
+
+  
+### Featherweight Scala
+
+Download for [screen](slides/week12.pdf),
+for printing by [2](slides/week12-1x2.pdf)
+or by [4](slides/week12-2x2.pdf).
+
+    
+  
+
+  
+### Foundations of Scala
+
+Download for [screen](slides/week13.pdf),
+for printing by [2](slides/week13-1x2.pdf)
+or by [4](slides/week13-2x2.pdf).
+
+    
+  
