@@ -61,3 +61,23 @@ or by [4](slides/week05-2x2.pdf).
 
     
   
+
+  
+### Simple Extensions to STLC
+
+Download for [screen](slides/week06.pdf),
+for printing by [2](slides/week06-1x2.pdf)
+or by [4](slides/week06-2x2.pdf).
+
+    
+  
+
+  
+### More Extensions to STLC
+
+Download for [screen](slides/week07.pdf),
+for printing by [2](slides/week07-1x2.pdf)
+or by [4](slides/week07-2x2.pdf).
+
+    
+  
