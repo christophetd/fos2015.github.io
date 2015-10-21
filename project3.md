@@ -144,7 +144,7 @@ variable `x` has type `T` provided context gamma has a binding for variable `x` 
 
       Γ, x : T1 ⊢ t : T2
     -----------------------
-    Γ ⊢ λx: T1. t2 : T1 →T2
+    Γ ⊢ λx: T1. t : T1 →T2
 
     Γ ⊢ t1 : T11 → T12   Γ ⊢ t2 : T11
     ---------------------------------
