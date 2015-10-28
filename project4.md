@@ -1,23 +1,20 @@
 ---
-title: Project 4 - Simply Typed Lambda Calculus Extensions
+title: Project 4 - STLC Extensions
 layout: default
-start: 14 Oct 2015, 00:00 (Europe/Zurich)
+start: 28 Oct 2015, 00:00 (Europe/Zurich)
 index: 5
 ---
 
-# Project 4: Simply Typed Lambda Calculus Extensions
+# Project 4: STLC Extensions
 
-**Hand in:** 27 Oct 2015, 23:59 (Europe/Zurich)<br/>
+**Hand in:** 03 Nov 2015, 23:59 (Europe/Zurich)<br/>
 <span class="very-important">You only have one week to complete this assignment!</span>
 
-**Project template:** [3-typed.zip](projects/3-typed.zip)
+**Project template:** [4-extensions.zip](projects/4-extensions.zip)
 
-## Assignment
-
-In this exercise, we reuse the combinator parsing library introduced in exercise 3. The project
-skeleton is the same one you started with for the last assignment. You should continue working on
+The project skeleton is the same one you started with for the last assignment. You should continue working on
 your project, and the final submission should contain all extensions, both from this assignment
-and from the last assignment. In this assignment you will extend your simply typed lambda
+and from the last assignment. In this assignment, you will extend your simply typed lambda
 calculus project from exercise 3 with sum types and recursive functions.
 
 ## Sum Type
@@ -47,7 +44,7 @@ such values, we use a case expression, similar to Scala’s match construct.
 
 Sum types are right associative and `+` has the same precedence as `*`.
 
-Language reduction rules for sum type extension:
+Evaluation rules for sum type extension:
 
     case (inl v0) of inl x1 => t1 | inr x2 => t2  →  [x1 → v0] t1
 
@@ -81,7 +78,7 @@ And lastly new typing rules:
     -------------------------------
     Γ ⊢ inr t1 as T1 + T2 : T1 + T2
 
-Evaluation and typing rules are pretty straight forward, the only thing a bit out of
+Evaluation and typing rules are pretty straightforward, the only thing a bit out of
 ordinary is the type adornment for inl and inr. This is necessary because the two
 constructors can’t possibly know what is the type of the other component of the sum
 type. By giving it explicitly, the type checker is able to proceed. Alternatives to
@@ -134,3 +131,9 @@ is the leftmost innermost term that doesn't typecheck, i.e. that doesn't have an
 rules that apply to it.
 
 **Hint**: re-using code from previous assignments might be a good idea.
+
+## Development & debugging
+
+Since the project skeleton is the same as in the previous assignment, everything from
+the "Development & debugging" section in [the previous project description](project3.html)
+applies to this project as well.
