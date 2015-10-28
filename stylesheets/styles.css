@@ -183,6 +183,10 @@ footer {
   bottom:50px;
 }
 
+.very-important {
+  color:red;
+}
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {

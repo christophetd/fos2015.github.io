@@ -7,7 +7,8 @@ index: 5
 
 # Project 4: Simply Typed Lambda Calculus Extensions
 
-**Hand in:** 03 Nov 2015, 23:59 (Europe/Zurich)
+**Hand in:** 03 Nov 2015, 23:59 (Europe/Zurich)<br/>
+<span class="very-important">You only have one week to complete this assignment!</span>
 
 **Project template:** [4-extensions.zip](projects/4-extensions.zip)
 
