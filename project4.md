@@ -1,25 +1,24 @@
 ---
 title: Project 4 - Simply Typed Lambda Calculus Extensions
 layout: default
-start: 28 Oct 2015, 00:00 (Europe/Zurich)
+start: 14 Oct 2015, 00:00 (Europe/Zurich)
 index: 5
 ---
 
 # Project 4: Simply Typed Lambda Calculus Extensions
 
-**Hand in:** 03 Nov 2015, 23:59 (Europe/Zurich)<br/>
+**Hand in:** 27 Oct 2015, 23:59 (Europe/Zurich)<br/>
 <span class="very-important">You only have one week to complete this assignment!</span>
 
-**Project template:** [4-extensions.zip](projects/4-extensions.zip)
+**Project template:** [3-typed.zip](projects/3-typed.zip)
 
 ## Assignment
 
 In this exercise, we reuse the combinator parsing library introduced in exercise 3. The project
 skeleton is the same one you started with for the last assignment. You should continue working on
 your project, and the final submission should contain all extensions, both from this assignment
-and from the last assignment. You will only be graded on the extensions. In this assignment you
-will extend your simply typed lambda calculus project from exercise 3 with sum types and
-recursive functions.
+and from the last assignment. In this assignment you will extend your simply typed lambda
+calculus project from exercise 3 with sum types and recursive functions.
 
 ## Sum Type
 

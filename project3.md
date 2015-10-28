@@ -1,15 +1,15 @@
 ---
 title: Project 3 - Simply Typed Lambda Calculus
 layout: default
-start: 14 Oct 2015, 00:00 (Europe/Zurich)
+start: 30 Sep 2015, 00:00 (Europe/Zurich)
 index: 4
 ---
 
 # Project 3: Simply Typed Lambda Calculus
 
-**Hand in:** 27 Oct 2015, 23:59 (Europe/Zurich)
+**Hand in:** 13 Oct 2015, 23:59 (Europe/Zurich)
 
-**Project template:** [3-typed.zip](projects/3-typed.zip)
+**Project template:** [2-untyped.zip](projects/2-untyped.zip)
 
 The goal of this exercise is to familiarize yourself with the simply typed λ-calculus; your work consists of implementing a type
 checker and a reducer for simply typed λ-terms. To make it more interesting, we extend λ-calculus with boolean and

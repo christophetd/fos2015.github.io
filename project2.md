@@ -1,15 +1,15 @@
 ---
 title: Project 2 - Untyped Lambda Calculus
 layout: default
-start: 30 Sep 2015, 00:00 (Europe/Zurich)
+start: 28 Oct 2015, 00:00 (Europe/Zurich)
 index: 4
 ---
 
 # Project 2: Untyped Lambda Calculus
 
-**Hand in:** 13 Oct 2015, 23:59 (Europe/Zurich)
+**Hand in:** 03 Nov 2015, 23:59 (Europe/Zurich)
 
-**Project template:** [2-untyped.zip](projects/2-untyped.zip)
+**Project template:** [4-extensions.zip](projects/4-extensions.zip)
 
 In this exercise, you'll be studying untyped λ-calculus. This classic language is defined in Chapter 5 of the TAPL book.
 
