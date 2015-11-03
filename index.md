@@ -6,7 +6,8 @@ index: -1
 ---
 
 The Foundations of Software course at EPFL is taught on *Tue 10:15-12:00, INM 200*.
-Exercise sessions take place on *Wed 10:15-12:00, CO 020*.
+Exercise sessions take place on *Wed 10:15-12:00, CO 020*
+(the exams take place elsewhere - scroll down to learn more).
 Additional announcements related to the course, as well as answers to the students' questions
 will be posted on the [mailing list](https://groups.google.com/forum/#!forum/fos2015) so remember to check it frequently.
 
@@ -35,7 +36,7 @@ Software foundations (or *theory of programming languages*) is the mathematical 
 | Tue, 3 Nov  | Course *Recursion and State with STLC*                                                                   |
 | Wed, 4 Nov  | **Solving midterm-like problems in class** ([penpaper-midterm2015.pdf](slides/penpaper-midterm2015.pdf)) |
 | Tue, 10 Nov | Course *Type Reconstruction and Polymorphism*                                                            |
-| Wed, 11 Nov | **Midterm**                                                                                              |
+| Wed, 11 Nov | **Midterm** (visit the mailing list to find out which room you're assigned to)                           |
 | ...         |                                                                                                          |
 
 ### Grading
