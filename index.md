@@ -16,27 +16,27 @@ Software foundations (or *theory of programming languages*) is the mathematical 
 
 ### Schedule
 
-|             |                                                                        |
-|-------------|------------------------------------------------------------------------|
-| Tue, 15 Sep | Course *Introduction and Combinator Parsers*                           |
-| Wed, 16 Sep | Exercise session on *arithmetic expressions*                           |
-| Tue, 22 Sep | Course *Arithmetic Expressions - Abstract Syntax and Proof Principles* |
-| Wed, 23 Sep | Exercise session on *arithmetic expressions*                           |
-| Tue, 29 Sep | Course *The Untyped Lambda Calculus (1)*                               |
-| Wed, 30 Sep | Exercise session on *untyped lambda calculus*                          |
-| Tue, 6 Oct  | Course *The Untyped Lambda Calculus (2)*                               |
-| Wed, 7 Oct  | Exercise session on *untyped lambda calculus*                          |
-| Tue, 13 Oct | Course *The Simply Typed Lambda Calculus*                              |
-| Wed, 14 Oct | Exercise session on *simply typed lambda calculus*                     |
-| Tue, 20 Oct | Course *STLC & Simple Extensions to STLC*                              |
-| Wed, 21 Oct | Exercise session on *simply typed lambda calculus*                     |
-| Tue, 27 Oct | Course *More Extensions to STLC*                                       |
-| Wed, 28 Oct | Exercise session on *simply typed lambda calculus with extensions*     |
-| Tue, 3 Nov  | Course *Recursion and State with STLC*                                 |
-| Wed, 4 Nov  | **Solving midterm-like problems in class**                             |
-| Tue, 10 Nov | Course *Type Reconstruction and Polymorphism*                          |
-| Wed, 11 Nov | **Midterm**                                                            |
-| ...         |                                                                        |
+|             |                                                                                                          |
+|-------------|----------------------------------------------------------------------------------------------------------|
+| Tue, 15 Sep | Course *Introduction and Combinator Parsers*                                                             |
+| Wed, 16 Sep | Exercise session on *arithmetic expressions*                                                             |
+| Tue, 22 Sep | Course *Arithmetic Expressions - Abstract Syntax and Proof Principles*                                   |
+| Wed, 23 Sep | Exercise session on *arithmetic expressions*                                                             |
+| Tue, 29 Sep | Course *The Untyped Lambda Calculus (1)*                                                                 |
+| Wed, 30 Sep | Exercise session on *untyped lambda calculus*                                                            |
+| Tue, 6 Oct  | Course *The Untyped Lambda Calculus (2)*                                                                 |
+| Wed, 7 Oct  | Exercise session on *untyped lambda calculus*                                                            |
+| Tue, 13 Oct | Course *The Simply Typed Lambda Calculus*                                                                |
+| Wed, 14 Oct | Exercise session on *simply typed lambda calculus*                                                       |
+| Tue, 20 Oct | Course *STLC & Simple Extensions to STLC*                                                                |
+| Wed, 21 Oct | Exercise session on *simply typed lambda calculus*                                                       |
+| Tue, 27 Oct | Course *More Extensions to STLC*                                                                         |
+| Wed, 28 Oct | Exercise session on *simply typed lambda calculus with extensions*                                       |
+| Tue, 3 Nov  | Course *Recursion and State with STLC*                                                                   |
+| Wed, 4 Nov  | **Solving midterm-like problems in class** ([penpaper-midterm2015.pdf](slides/penpaper-midterm2015.pdf)) |
+| Tue, 10 Nov | Course *Type Reconstruction and Polymorphism*                                                            |
+| Wed, 11 Nov | **Midterm**                                                                                              |
+| ...         |                                                                                                          |
 
 ### Grading
 

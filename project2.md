@@ -2,7 +2,7 @@
 title: Project 2 - Untyped Lambda Calculus
 layout: default
 start: 30 Sep 2015, 00:00 (Europe/Zurich)
-index: 4
+index: 5
 ---
 
 # Project 2: Untyped Lambda Calculus

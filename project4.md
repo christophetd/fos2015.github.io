@@ -2,7 +2,7 @@
 title: Project 4 - STLC Extensions
 layout: default
 start: 28 Oct 2015, 00:00 (Europe/Zurich)
-index: 5
+index: 7
 ---
 
 # Project 4: STLC Extensions

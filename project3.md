@@ -2,7 +2,7 @@
 title: Project 3 - Simply Typed Lambda Calculus
 layout: default
 start: 14 Oct 2015, 00:00 (Europe/Zurich)
-index: 4
+index: 6
 ---
 
 # Project 3: Simply Typed Lambda Calculus
